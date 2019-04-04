@@ -22,7 +22,7 @@ A NUDUPL implementation is described in the paper [Computational Aspects of NUCO
 
 Also of particular note from the last round is [Sundersoft's entry](https://github.com/sundersoft2/chia-vdf) which used assembly encoding and SIMD instructions. It also contains written thoughts on how to improve the implementation further.
 
-As well as the [old reference implementation](https://github.com/Chia-Network/vdf-competition), new contestants may find our [guide to classgroups](https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf) a useful resource.
+As well as the [old reference implementation](https://github.com/Chia-Network/oldvdf-competition), new contestants may find our [guide to classgroups](https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf) a useful resource.
 You can also find all of the entries to the last round of the competition [here](https://github.com/Chia-Network/vdftrack1results).
 
 
