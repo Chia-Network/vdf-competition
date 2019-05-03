@@ -28,8 +28,9 @@ You can also find all of the entries to the last round of the competition [here]
 
 ## Hardware
 
-We will be running all submissions on the same hardware.
-We have a new Xeon W-2123 CPU, which supports AVX-512 instructions, and a RTX 2080 GPU which supports the Cuda API.
+We will be judging the SIMD/GPU track entries on a Xeon W-2123 CPU, which supports AVX-512 instructions, and a RTX 2080 GPU which supports the Cuda API.
+
+The non-SIMD/non-GPU track entries will be judged on a Pentium G4500 system with no AVX support and no external GPU.
 
 Every submission will be ran on a fresh install of Ubuntu Linux with super user privileges.
 
