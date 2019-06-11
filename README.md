@@ -1,3 +1,15 @@
+## One more month left to win $100,000! The second round of Chia Network's VDF competition ends July 4th.
+
+NEW! Our reference Pentium G4500 system for the “SIMD and GPU optimizations not allowed” track 2 is online for testing with vdf_bot. To access, use the judge_nosimd command from your Keybase private channel:
+
+/vdf judge_nosimd keybase://team/chia_network.TEAM/track2
+
+For the “SIMD and GPU optimizations allowed” track 1, as before, you can test on our Xeon W-2123 system (dual AVX-512/no turboboost and RTX 2080 GPU) with the judge_speed command:
+
+/vdf judge_speed keybase://team/chia_network.TEAM/track1
+
+NB: vdf_bot is OPTIONAL and is provided as assistance to help teams test their entries on real reference hardware. We can’t guarantee availability or uptime so please test early if you plan to take advantage of this resource.
+
 ## Overview
 
 This is the reference implementation for the VDF contest.
